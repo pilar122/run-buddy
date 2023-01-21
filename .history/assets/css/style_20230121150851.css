@@ -79,7 +79,7 @@ section {
     background-position: center;
     position: relative;
 }
-
+/*hero style end*/
 
 .hero-form {
     border: 3px solid #024e76;
@@ -118,9 +118,4 @@ section {
 .hero-form button {
     color: #fce138;
     background-color: #024e76;
-    border:none;
-    padding: 10px 20px;
-    font-size: 16px;
 }
-
-/*hero style end*/
