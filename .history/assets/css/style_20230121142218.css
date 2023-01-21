@@ -77,7 +77,6 @@ section {
     height: 600px;
     background-size: cover;
     background-position: center;
-    position: relative;
 }
 /*hero style end*/
 
@@ -87,7 +86,5 @@ section {
     padding: 20px;
     width: 500px;
     color: #024e76;
-    position: absolute;
-    bottom: 120px;
-    right: 140px;
+    position: relative;
 }
